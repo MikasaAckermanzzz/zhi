@@ -1,1 +1,3 @@
-# zhi
+Focus!
+Feedback!
+Fix it!
